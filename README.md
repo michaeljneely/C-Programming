@@ -1,3 +1,2 @@
-# NUIG-CSIT-First-Year
-A collection of programs and code snippits from my first year at NUIG
-Languages include: C, PHP, Javascript and mySQL
+# C Programming
+A collection of C programs from my studies at the National University of Ireland, Galway
