@@ -1,5 +1,7 @@
-// Accelerometer CSV data Fall Detector
 //Michael Neely
+
+/*This programs reads CSV data from a Shimmer Sensor (accelerometer) that is strapped to a user.
+It determines if a fall occurred at any point during the time interval captured by the CSV file. */
 
 #include "stdafx.h"
 #include <stdlib.h>
