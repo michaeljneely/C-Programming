@@ -5,7 +5,8 @@
 #include <string.h>
 #include <math.h>
 
-/* This Program shuffles a created deck of cards and deals as many hands of 5 cards as specified */
+/* This program randomizes a created deck of cards using a Fisher-Yates Shuffle, and deals as many
+hands of 5 cards as specified by the user */
 
 struct card {
 	char face;
